@@ -11,6 +11,7 @@
     - Claim `: khẳng định, quả quyết`  
     - Decide `: quyết định`  
     - Demand `: yêu cầu, đòi hỏi`  
+    - Devote `: dành cho`
     - Desire `: khao khát, mong muốn`  
     - Expect `: mong đợi, trông đợi`  
     - Fail `: thất bại (làm gì đó)`  

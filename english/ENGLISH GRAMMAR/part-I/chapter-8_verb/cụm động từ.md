@@ -295,7 +295,7 @@ ______________________________________________________________
     - take a risk `: mạo hiểm`
     - take responsibility `: chịu trách nhiệm`
     - take a shortcut `: đi đường tắt`
-    - take a tour `:đi tham quan`
+    - take right `:uống (thuốc)`
 
 - try
     - try on `: thử quần áo giày dép thời trang`
